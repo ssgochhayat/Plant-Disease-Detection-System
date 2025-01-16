@@ -22,7 +22,6 @@ def model_prediction(test_image):
 #Sidebar
 logo_image = "assets\logo3.png" 
 st.logo(logo_image,size="large", link=None, icon_image=None)
-st.sidebar.title("Dashboard")
 with st.sidebar:
  app_mode = option_menu("Dashboard",["Home","About","Disease Recognition"],icons=["house","person","camera"],default_index=0)
 
