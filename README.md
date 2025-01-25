@@ -19,3 +19,5 @@ This project predicts plant diseases using machine learning and computer vision 
 1. Clone the repository:
    ```bash
    git clone https://github.com/ssgochhayat/Plant-Disease-Prediction.git
+## Dataset
+Dataset Link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
